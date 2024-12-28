@@ -4,7 +4,7 @@ Enhanced Global Development Clustering Application
 """
 
 import pickle
-
+import pandas as pd
 
 # Load dataset and model
 df = pd.read_excel("Data.xlsx")
