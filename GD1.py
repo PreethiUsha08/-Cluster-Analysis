@@ -4,11 +4,7 @@ Enhanced Global Development Clustering Application
 """
 
 import pickle
-import streamlit as st
-import pandas as pd
-import seaborn as sns
-import plotly.express as px
-import matplotlib.pyplot as plt
+
 
 # Load dataset and model
 df = pd.read_excel("Data.xlsx")
